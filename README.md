@@ -11,7 +11,7 @@
 <br/>
 
 ![Available for freelance](https://img.shields.io/badge/●_Available_for_freelance-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=22C55E)
-![Location](https://img.shields.io/badge/Annaba,_Algeria-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=F97316)
+![Location](https://img.shields.io/badge/Algeria-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=F97316)
 ![Profile views](https://komarev.com/ghpvc/?username=massi-dev1&style=for-the-badge&color=F97316&label=VISITORS)
 
 </div>
