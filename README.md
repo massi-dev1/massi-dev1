@@ -22,6 +22,13 @@ I combine **technology, design, and strategy** to build products that perform â€
 
 <br/>
 
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20VIEW%20MY%20PORTFOLIO%20%20%20%20%20%20%20%20%20%20-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F97316)](https://portfolio-pbq66ztj7-massi-dev2.vercel.app)
+
+</div>
+
 ## `>` projects
 
 <table>
