@@ -25,7 +25,7 @@ I combine **technology, design, and strategy** to build products that perform â€
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20VIEW%20MY%20PORTFOLIO%20%20%20%20%20%20%20%20%20%20-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F97316)](https://portfolio-pbq66ztj7-massi-dev2.vercel.app)
+[![Portfolio](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20VIEW%20MY%20PORTFOLIO%20%20%20%20%20%20%20%20%20%20-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F97316)](https://portfolio-mu-ivory-81.vercel.app/)
 
 </div>
 
@@ -104,7 +104,7 @@ I'm currently **open for freelance projects** â€” APIs, backends, or turning a m
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F97316)](https://portfolio-pbq66ztj7-massi-dev2.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F97316)](https://portfolio-mu-ivory-81.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slimani-massinissa-4ab872434/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massinissaslimani33@gmail.com)
 
