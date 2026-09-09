@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.jpg" alt="Massinissa Slimani — Software Engineer & Freelancer" width="100%" />
+  <img width="2848" alt="Massinissa Slimani — Software Engineer & Freelancer" src="https://github.com/user-attachments/assets/009a61c1-7e73-4acf-be83-4ede53affba8" />
 </div>
 
 <br/>
@@ -18,45 +18,60 @@
 
 <br/>
 
-## `>` whoami
-
-```ts
-const massi = {
-  name:     "Massinissa Slimani",
-  role:     "Software Engineer & Freelancer",
-  based_in: "Annaba, Algeria 🇩🇿",
-  focus:    ["Full-stack web", "Product design", "Performance"],
-  building: "Fast, clean products that actually ship",
-  motto:    "Design is not how it looks — it's how it performs.",
-  open_to:  "Freelance & collaborations ✅",
-};
-```
-
 I combine **technology, design, and strategy** to build products that perform — from the first Figma frame to the production deploy.
 
 <br/>
+
+## `>` projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[Hirely-FastAPI](https://github.com/massi-dev1/Hirely-FastAPI)**
+
+Job board app — email verification, JWT auth, role-based access.
+
+`FastAPI` `REACT` ![Stars](https://img.shields.io/github/stars/massi-dev1/Hirely-FastAPI?style=flat&label=%E2%98%85&labelColor=0D1117&color=0D1117)
+
+</td>
+<td width="33%" valign="top">
+
+**[cryptofy](https://github.com/massi-dev1/cryptofy)**
+
+ crypto price tracker.
+
+`FastAPI` `REACT` ![Stars](https://img.shields.io/github/stars/massi-dev1/cryptofy?style=flat&label=%E2%98%85&labelColor=0D1117&color=0D1117)
+
+</td>
+<td width="33%" valign="top">
+
+**[real-estate-backend](https://github.com/massi-dev1/real-estate-backend)** 🚧
+
+Real estate API — work in progress.
+
+`Python` ![Stars](https://img.shields.io/github/stars/massi-dev1/real-estate-backend?style=flat&label=%E2%98%85&labelColor=0D1117&color=0D1117)
+
+</td>
+</tr>
+</table>
 
 ## `>` stack
 
 <div align="center">
 
-### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 </div>
 
@@ -66,26 +81,11 @@ I combine **technology, design, and strategy** to build products that perform �
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=massi-dev1&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F97316&icon_color=F97316&text_color=A1A1AA&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massi-dev1&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F97316&text_color=A1A1AA&langs_count=8" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=massi-dev1&hide_border=true&background=0A0A0A&stroke=27272A&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=A1A1AA&dates=52525B&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+<img height="180" src="https://streak-stats.demolab.com?user=massi-dev1&hide_border=true&background=0A0A0A&stroke=27272A&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=A1A1AA&dates=52525B&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=massi-dev1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-<br/>
-
-## `>` activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=massi-dev1&bg_color=0A0A0A&color=FFFFFF&line=F97316&point=FFFFFF&area=true&area_color=F97316&hide_border=true" width="100%" />
+<img src="https://raw.githubusercontent.com/massi-dev1/massi-dev1/output/github-snake.svg" alt="contribution graph" width="100%" />
 
 </div>
 
@@ -93,14 +93,13 @@ I combine **technology, design, and strategy** to build products that perform �
 
 ## `>` work with me
 
-I'm currently **open for freelance projects** — web apps, product design, or turning a messy idea into something that ships.
+I'm currently **open for freelance projects** — APIs, backends, or turning a messy idea into something that ships.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F97316)](https://github.com/massi-dev1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F97316)](https://portfolio-pbq66ztj7-massi-dev2.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slimani-massinissa-4ab872434/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massinissaslimani33@gmail.com)
 
 </div>
 
