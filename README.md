@@ -87,9 +87,8 @@ Real estate API — work in progress.
 ## `>` stats
 
 <div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com?user=massi-dev1&hide_border=true&background=0A0A0A&stroke=27272A&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=A1A1AA&dates=52525B&sideNums=FFFFFF&currStreakNum=FFFFFF" />
-
+  
+<img height="180" src="https://streak-stats.demolab.com?user=massi-dev1&cache=false&hide_border=true&background=0A0A0A&stroke=27272A&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=A1A1AA&dates=52525B&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/massi-dev1/massi-dev1/output/github-snake.svg" alt="contribution graph" width="100%" />
