@@ -46,7 +46,7 @@ Job board app — email verification, JWT auth, role-based access.
 
 **[cryptofy](https://github.com/massi-dev1/cryptofy)**
 
- crypto price tracker.
+ Crypto price tracker.
 
 `FastAPI` `REACT` ![Stars](https://img.shields.io/github/stars/massi-dev1/cryptofy?style=flat&label=%E2%98%85&labelColor=0D1117&color=0D1117)
 
